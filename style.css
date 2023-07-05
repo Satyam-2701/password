@@ -71,3 +71,8 @@ button
   cursor: pointer;
   
 }
+@media (max-width:500px){
+  .display img{
+    margin-left: -50px;
+  }
+}
